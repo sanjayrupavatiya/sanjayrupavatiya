@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sanjay Rupavatiya 👋
 
-<!--
-**sanjayrupavatiya/sanjayrupavatiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## WordPress Developer | AI Enthusiast | Learning Prompt Engineering & AI Tools | Digital Marketing | Open to AI & Remote Opportunities
 
-Here are some ideas to get you started:
+- 7+ Years Freelance Experience in Meta Ads & Video Editing
+- 4+ Years WordPress Development
+- ChatGPT
+- Learning Prompt Engineering
+- AI Image Generation
+- AI Video Generation
+- Meta Ads
+- Internet Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email:
+shahid.rupavatiya11@gmail.com
+
+📍 Surat, Gujarat, India
