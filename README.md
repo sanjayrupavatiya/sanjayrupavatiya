@@ -26,4 +26,3 @@ AI/ML Engineer working at the intersection of machine learning, LLM evaluation, 
 
 ## Connect
 📧 sanjayrupavatiya07@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/sanjay-rupavatiya)
