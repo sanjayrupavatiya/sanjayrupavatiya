@@ -25,4 +25,4 @@ AI/ML Engineer working at the intersection of machine learning, LLM evaluation, 
   Feature engineering and behavioral analysis to identify high-risk customer segments.
 
 ## Connect
-📧 sanjayrupavatiya07@gmail.com  
+📧 shahid.rupavatiya11@gmail.com  
